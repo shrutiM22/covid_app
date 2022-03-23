@@ -40,7 +40,7 @@
 			try{ 
 				Connection conn=DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres","test");
 			statement=conn.createStatement();
-			String sql ="SELECT location, Count(total_cases) FROM covid_data WHERE new_cases> 1000 GROUP BY location,new_cases ORDER BY  Count(new_cases);";
+			String sql ="SELECT location, total_cases FROM covid_data WHERE new_cases> 1000 GROUP BY location,new_cases,total_cases ORDER BY  new_cases;";
 			r = statement.executeQuery(sql);
 			while(r.next()){
 		%>
