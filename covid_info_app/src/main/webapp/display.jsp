@@ -40,14 +40,14 @@
 			try{ 
 				Connection conn=DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres","test");
 			statement=conn.createStatement();
-			String sql ="SELECT location, Count(total_cases) FROM covid_data WHERE new_cases> 30 GROUP BY location,new_cases ORDER BY  Count(new_cases);";
+			String sql ="SELECT location, Count(total_cases) FROM covid_data WHERE new_cases> 1000 GROUP BY location,new_cases ORDER BY  Count(new_cases);";
 			r = statement.executeQuery(sql);
 			while(r.next()){
 		%>
 		<tr>
 		
-		<td ><%=r.getString("location") %></td>
-		<td><%=r.getString("total_cases") %></td>
+		<td ><%=r.getString(1) %></td>
+		<td><%=r.getString(2) %></td>
 		
 		</tr>
 		
