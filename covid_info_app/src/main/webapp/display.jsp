@@ -1,5 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+    
+<%@page import="java.sql.DriverManager"%>
+<%@page import="java.sql.ResultSet"%>
+<%@page import="java.sql.Statement"%>
+<%@page import="java.sql.Connection"%>
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,21 +15,52 @@
 </head>
 <body>
 
+	<%
+	
+	
+	try {
+	Class.forName("org.postgresql.Driver");
+	} catch (ClassNotFoundException e) {
+	e.printStackTrace();
+	}
+	Connection connection = null;
+	Statement statement = null;
+	ResultSet r = null;
+	%>
 
 
-	<h1>Hello!</h1>
-	<table>
+	<h1 style " align="center" padding-top="20px"  ">Covid Data</h1>
+	<table style " align= "center" padding-top="20px" border="2" cellpadding="8" ">
 		<tr>
 			<th>Location</th>
 			<th>Total cases</th>
 		</tr>
+		
+		<%
+			try{ 
+				Connection conn=DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres","test");
+			statement=conn.createStatement();
+			String sql ="SELECT location, Count(total_cases) FROM covid_data WHERE new_cases> 30 GROUP BY location,new_cases ORDER BY  Count(new_cases);";
+			r = statement.executeQuery(sql);
+			while(r.next()){
+		%>
 		<tr>
-			<td>${location }</td>
-			<td>${cases }</td>
+		
+		<td ><%=r.getString("location") %></td>
+		<td><%=r.getString("total_cases") %></td>
+		
 		</tr>
 		
+		<% 
+			}
+			} catch (Exception e) {
+			e.printStackTrace();
+			}
+		%>
+		
 	</table>
-
-
-</body>
+	</body>
 </html>
+	
+
+
