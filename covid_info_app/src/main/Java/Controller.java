@@ -23,7 +23,7 @@ public class Controller {
 		Class.forName("org.postgresql.Driver");
 		Connection conn=DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres","test");
 		Statement stmt= conn.createStatement();
-		ResultSet r=stmt.executeQuery("SELECT location,total_cases FROM covid_data WHERE new_cases> 1000 GROUP BY location,total_cases ORDER BY total_cases;");
+		ResultSet r=stmt.executeQuery("SELECT location, Count(total_cases) FROM covid_data WHERE new_cases> 1000 GROUP BY location,total_cases ORDER BY total_cases;");
 		
 		while(r.next()) {
 		mv.addObject("location",r.getString(1));
