@@ -15,7 +15,7 @@ public class App {
 		Class.forName(driverName);
 		Connection con = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres","test");
 		Statement stmt=con.createStatement();
-		ResultSet r =stmt.executeQuery("SELECT location, Count(total_cases ) FROM covid_data WHERE new_cases> 3 GROUP BY location,total_cases ORDER BY total_cases;");
+		ResultSet r =stmt.executeQuery("SELECT location, total_cases FROM covid_data WHERE new_cases> 1000 GROUP BY location,new_cases,total_cases ORDER BY  new_cases;");
 		while(r.next()) {
 			System.out.println( r.getString(1) + " " + r.getString(2)  );
 			
