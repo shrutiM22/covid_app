@@ -1,0 +1,1115 @@
+iso_code,continent,location,date,total_cases,new_cases
+AFG,Asia,Afghanistan,25-02-2020,5,0
+AFG,Asia,Afghanistan,26-02-2020,5,0
+AFG,Asia,Afghanistan,27-02-2020,5,0
+AFG,Asia,Afghanistan,28-02-2020,5,0
+AFG,Asia,Afghanistan,29-02-2020,5,0
+AFG,Asia,Afghanistan,01-03-2020,5,0
+OWID_AFR,,Africa,13-02-2020,,0
+OWID_AFR,,Africa,14-02-2020,1,1
+OWID_AFR,,Africa,15-02-2020,1,0
+OWID_AFR,,Africa,16-02-2020,1,0
+OWID_AFR,,Africa,17-02-2020,1,0
+OWID_AFR,,Africa,18-02-2020,1,0
+OWID_AFR,,Africa,19-02-2020,1,0
+OWID_AFR,,Africa,20-02-2020,1,0
+OWID_AFR,,Africa,21-02-2020,1,0
+OWID_AFR,,Africa,22-02-2020,1,0
+ALB,Europe,Albania,25-02-2020,,
+ALB,Europe,Albania,26-02-2020,,
+ALB,Europe,Albania,27-02-2020,,
+ALB,Europe,Albania,28-02-2020,,
+ALB,Europe,Albania,29-02-2020,,
+ALB,Europe,Albania,01-03-2020,,
+ALB,Europe,Albania,02-03-2020,,
+ALB,Europe,Albania,03-03-2020,,
+ALB,Europe,Albania,04-03-2020,,
+ALB,Europe,Albania,05-03-2020,,
+ALB,Europe,Albania,06-03-2020,,
+ALB,Europe,Albania,07-03-2020,,
+ALB,Europe,Albania,08-03-2020,,
+ALB,Europe,Albania,09-03-2020,2,2
+ALB,Europe,Albania,10-03-2020,10,8
+DZA,Africa,Algeria,25-02-2020,1,1
+DZA,Africa,Algeria,26-02-2020,1,0
+DZA,Africa,Algeria,27-02-2020,1,0
+DZA,Africa,Algeria,28-02-2020,1,0
+DZA,Africa,Algeria,29-02-2020,1,0
+DZA,Africa,Algeria,01-03-2020,1,0
+DZA,Africa,Algeria,02-03-2020,3,2
+DZA,Africa,Algeria,03-03-2020,5,2
+DZA,Africa,Algeria,04-03-2020,12,7
+AND,Europe,Andorra,02-03-2020,1,1
+AND,Europe,Andorra,03-03-2020,1,0
+AND,Europe,Andorra,04-03-2020,1,0
+AND,Europe,Andorra,05-03-2020,1,0
+AND,Europe,Andorra,06-03-2020,1,0
+AND,Europe,Andorra,07-03-2020,1,0
+AND,Europe,Andorra,08-03-2020,1,0
+AND,Europe,Andorra,09-03-2020,1,0
+AND,Europe,Andorra,10-03-2020,1,0
+AGO,Africa,Angola,20-03-2020,1,1
+AGO,Africa,Angola,21-03-2020,2,1
+AGO,Africa,Angola,22-03-2020,2,0
+AGO,Africa,Angola,23-03-2020,3,1
+AGO,Africa,Angola,24-03-2020,3,0
+AGO,Africa,Angola,25-03-2020,3,0
+AGO,Africa,Angola,26-03-2020,4,1
+AIA,North America,Anguilla,28-03-2020,2,2
+AIA,North America,Anguilla,29-03-2020,2,0
+AIA,North America,Anguilla,30-03-2020,2,0
+AIA,North America,Anguilla,31-03-2020,2,0
+AIA,North America,Anguilla,01-04-2020,2,0
+AIA,North America,Anguilla,02-04-2020,3,1
+AIA,North America,Anguilla,03-04-2020,3,0
+AIA,North America,Anguilla,04-04-2020,3,0
+ARG,South America,Argentina,03-03-2020,1,1
+ARG,South America,Argentina,04-03-2020,1,0
+ARG,South America,Argentina,05-03-2020,1,0
+ARG,South America,Argentina,06-03-2020,2,1
+ARG,South America,Argentina,07-03-2020,8,6
+ARG,South America,Argentina,08-03-2020,12,4
+ARG,South America,Argentina,09-03-2020,12,0
+ARM,Asia,Armenia,01-03-2020,1,1
+ARM,Asia,Armenia,02-03-2020,1,0
+ARM,Asia,Armenia,03-03-2020,1,0
+ARM,Asia,Armenia,04-03-2020,1,0
+ARM,Asia,Armenia,05-03-2020,1,0
+ARM,Asia,Armenia,06-03-2020,1,0
+ARM,Asia,Armenia,07-03-2020,1,0
+ARM,Asia,Armenia,08-03-2020,1,0
+ARM,Asia,Armenia,09-03-2020,1,0
+AUS,Oceania,Australia,26-01-2020,4,4
+AUS,Oceania,Australia,27-01-2020,5,1
+AUS,Oceania,Australia,28-01-2020,5,0
+AUS,Oceania,Australia,29-01-2020,6,1
+AUS,Oceania,Australia,30-01-2020,9,3
+AUS,Oceania,Australia,31-01-2020,9,0
+AUS,Oceania,Australia,01-02-2020,12,3
+AUS,Oceania,Australia,02-02-2020,12,0
+AGO,Africa,Angola,24-06-2020,197,8
+AGO,Africa,Angola,25-06-2020,212,15
+AGO,Africa,Angola,26-06-2020,212,0
+AGO,Africa,Angola,27-06-2020,259,47
+AGO,Africa,Angola,28-06-2020,267,8
+AGO,Africa,Angola,29-06-2020,276,9
+AGO,Africa,Angola,30-06-2020,284,8
+AGO,Africa,Angola,01-07-2020,291,7
+AGO,Africa,Angola,02-07-2020,315,24
+AGO,Africa,Angola,03-07-2020,328,13
+AGO,Africa,Angola,04-07-2020,346,18
+AGO,Africa,Angola,05-07-2020,346,0
+AGO,Africa,Angola,06-07-2020,346,0
+AGO,Africa,Angola,07-07-2020,386,40
+AGO,Africa,Angola,08-07-2020,386,0
+AGO,Africa,Angola,09-07-2020,396,10
+AGO,Africa,Angola,10-07-2020,458,62
+AGO,Africa,Angola,11-07-2020,462,4
+AGO,Africa,Angola,12-07-2020,506,44
+AGO,Africa,Angola,13-07-2020,525,19
+AGO,Africa,Angola,14-07-2020,541,16
+AGO,Africa,Angola,15-07-2020,576,35
+AGO,Africa,Angola,16-07-2020,607,31
+AGO,Africa,Angola,17-07-2020,638,31
+AGO,Africa,Angola,18-07-2020,687,49
+AGO,Africa,Angola,19-07-2020,705,18
+AGO,Africa,Angola,20-07-2020,749,44
+AGO,Africa,Angola,21-07-2020,779,30
+AGO,Africa,Angola,22-07-2020,812,33
+AGO,Africa,Angola,23-07-2020,851,39
+AGO,Africa,Angola,24-07-2020,880,29
+AGO,Africa,Angola,25-07-2020,916,36
+AGO,Africa,Angola,26-07-2020,932,16
+AGO,Africa,Angola,27-07-2020,950,18
+AGO,Africa,Angola,28-07-2020,1000,50
+AGO,Africa,Angola,29-07-2020,1078,78
+AGO,Africa,Angola,30-07-2020,1109,31
+AGO,Africa,Angola,31-07-2020,1148,39
+AGO,Africa,Angola,01-08-2020,1164,16
+AGO,Africa,Angola,02-08-2020,1199,35
+AGO,Africa,Angola,03-08-2020,1280,81
+AGO,Africa,Angola,04-08-2020,1344,64
+AGO,Africa,Angola,05-08-2020,1395,51
+AGO,Africa,Angola,06-08-2020,1483,88
+AGO,Africa,Angola,07-08-2020,1538,55
+AGO,Africa,Angola,08-08-2020,1572,34
+AGO,Africa,Angola,09-08-2020,1672,100
+AGO,Africa,Angola,10-08-2020,1679,7
+AGO,Africa,Angola,11-08-2020,1735,56
+AGO,Africa,Angola,12-08-2020,1762,27
+AGO,Africa,Angola,13-08-2020,1815,53
+AGO,Africa,Angola,14-08-2020,1852,37
+AGO,Africa,Angola,15-08-2020,1879,27
+AGO,Africa,Angola,16-08-2020,1906,27
+AGO,Africa,Angola,17-08-2020,1935,29
+AGO,Africa,Angola,18-08-2020,1966,31
+AGO,Africa,Angola,19-08-2020,2015,49
+AGO,Africa,Angola,20-08-2020,2044,29
+AGO,Africa,Angola,21-08-2020,2068,24
+AGO,Africa,Angola,22-08-2020,2134,66
+AGO,Africa,Angola,23-08-2020,2171,37
+AGO,Africa,Angola,24-08-2020,2222,51
+AGO,Africa,Angola,25-08-2020,2283,61
+AGO,Africa,Angola,26-08-2020,2332,49
+AGO,Africa,Angola,27-08-2020,2415,83
+AGO,Africa,Angola,28-08-2020,2471,56
+AGO,Africa,Angola,29-08-2020,2551,80
+AGO,Africa,Angola,30-08-2020,2624,73
+AGO,Africa,Angola,31-08-2020,2654,30
+AGO,Africa,Angola,01-09-2020,2729,75
+AGO,Africa,Angola,02-09-2020,2777,48
+AGO,Africa,Angola,03-09-2020,2805,28
+AGO,Africa,Angola,04-09-2020,2876,71
+AGO,Africa,Angola,05-09-2020,2935,59
+AGO,Africa,Angola,06-09-2020,2965,30
+AGO,Africa,Angola,07-09-2020,2981,16
+AGO,Africa,Angola,08-09-2020,3033,52
+AGO,Africa,Angola,09-09-2020,3092,59
+AGO,Africa,Angola,10-09-2020,3217,125
+AGO,Africa,Angola,11-09-2020,3279,62
+AGO,Africa,Angola,12-09-2020,3335,56
+AGO,Africa,Angola,13-09-2020,3388,53
+AGO,Africa,Angola,14-09-2020,3439,51
+AGO,Africa,Angola,15-09-2020,3569,130
+AGO,Africa,Angola,16-09-2020,3675,106
+AGO,Africa,Angola,17-09-2020,3789,114
+AGO,Africa,Angola,18-09-2020,3848,59
+AGO,Africa,Angola,19-09-2020,3901,53
+AGO,Africa,Angola,20-09-2020,3991,90
+AGO,Africa,Angola,21-09-2020,4117,126
+AGO,Africa,Angola,22-09-2020,4236,119
+AGO,Africa,Angola,23-09-2020,4363,127
+AGO,Africa,Angola,24-09-2020,4475,112
+AGO,Africa,Angola,25-09-2020,4590,115
+AGO,Africa,Angola,26-09-2020,4672,82
+AGO,Africa,Angola,27-09-2020,4718,46
+AGO,Africa,Angola,28-09-2020,4797,79
+AGO,Africa,Angola,29-09-2020,4905,108
+AGO,Africa,Angola,30-09-2020,4972,67
+AGO,Africa,Angola,01-10-2020,5114,142
+AGO,Africa,Angola,02-10-2020,5211,97
+AGO,Africa,Angola,03-10-2020,5370,159
+AGO,Africa,Angola,04-10-2020,5402,32
+AGO,Africa,Angola,05-10-2020,5530,128
+AGO,Africa,Angola,06-10-2020,5725,195
+AGO,Africa,Angola,07-10-2020,5725,0
+AGO,Africa,Angola,08-10-2020,5958,233
+AGO,Africa,Angola,09-10-2020,6031,73
+AGO,Africa,Angola,10-10-2020,6246,215
+AGO,Africa,Angola,11-10-2020,6366,120
+AGO,Africa,Angola,12-10-2020,6488,122
+AIA,North America,Anguilla,16-08-2021,137,10
+AIA,North America,Anguilla,17-08-2021,137,0
+AIA,North America,Anguilla,18-08-2021,137,0
+AIA,North America,Anguilla,19-08-2021,154,17
+AIA,North America,Anguilla,20-08-2021,154,0
+AIA,North America,Anguilla,21-08-2021,166,12
+AIA,North America,Anguilla,22-08-2021,166,0
+AIA,North America,Anguilla,23-08-2021,166,0
+AIA,North America,Anguilla,24-08-2021,166,0
+AIA,North America,Anguilla,25-08-2021,174,8
+AIA,North America,Anguilla,26-08-2021,194,20
+AIA,North America,Anguilla,27-08-2021,194,0
+AIA,North America,Anguilla,28-08-2021,194,0
+AIA,North America,Anguilla,29-08-2021,201,7
+AIA,North America,Anguilla,30-08-2021,217,16
+AIA,North America,Anguilla,31-08-2021,217,0
+AIA,North America,Anguilla,01-09-2021,217,0
+AIA,North America,Anguilla,02-09-2021,256,39
+AIA,North America,Anguilla,03-09-2021,256,0
+AIA,North America,Anguilla,04-09-2021,279,23
+AIA,North America,Anguilla,05-09-2021,279,0
+AIA,North America,Anguilla,06-09-2021,296,17
+AIA,North America,Anguilla,07-09-2021,296,0
+AIA,North America,Anguilla,08-09-2021,305,9
+AIA,North America,Anguilla,09-09-2021,305,0
+AIA,North America,Anguilla,10-09-2021,312,7
+AIA,North America,Anguilla,11-09-2021,312,0
+AIA,North America,Anguilla,12-09-2021,312,0
+AIA,North America,Anguilla,13-09-2021,318,6
+AIA,North America,Anguilla,14-09-2021,318,0
+AIA,North America,Anguilla,15-09-2021,318,0
+AIA,North America,Anguilla,16-09-2021,325,7
+AIA,North America,Anguilla,17-09-2021,331,6
+AIA,North America,Anguilla,18-09-2021,331,0
+AIA,North America,Anguilla,19-09-2021,331,0
+AIA,North America,Anguilla,20-09-2021,331,0
+AIA,North America,Anguilla,21-09-2021,340,9
+ATG,North America,Antigua and Barbuda,04-01-2022,4486,203
+ATG,North America,Antigua and Barbuda,05-01-2022,4486,0
+ATG,North America,Antigua and Barbuda,06-01-2022,4715,229
+ATG,North America,Antigua and Barbuda,07-01-2022,4715,0
+ATG,North America,Antigua and Barbuda,08-01-2022,4844,129
+ATG,North America,Antigua and Barbuda,09-01-2022,5058,214
+ATG,North America,Antigua and Barbuda,10-01-2022,5058,0
+ATG,North America,Antigua and Barbuda,11-01-2022,5058,0
+ATG,North America,Antigua and Barbuda,12-01-2022,5214,156
+ATG,North America,Antigua and Barbuda,13-01-2022,5214,0
+ATG,North America,Antigua and Barbuda,14-01-2022,5246,32
+ATG,North America,Antigua and Barbuda,15-01-2022,5321,75
+ATG,North America,Antigua and Barbuda,16-01-2022,5321,0
+ATG,North America,Antigua and Barbuda,17-01-2022,5321,0
+ATG,North America,Antigua and Barbuda,18-01-2022,5346,25
+ATG,North America,Antigua and Barbuda,19-01-2022,5741,395
+ATG,North America,Antigua and Barbuda,20-01-2022,5741,0
+ATG,North America,Antigua and Barbuda,21-01-2022,5815,74
+ATG,North America,Antigua and Barbuda,22-01-2022,5931,116
+ATG,North America,Antigua and Barbuda,23-01-2022,5931,0
+ATG,North America,Antigua and Barbuda,24-01-2022,6023,92
+ATG,North America,Antigua and Barbuda,25-01-2022,6023,0
+ATG,North America,Antigua and Barbuda,26-01-2022,6442,419
+ATG,North America,Antigua and Barbuda,27-01-2022,6524,82
+ATG,North America,Antigua and Barbuda,28-01-2022,6558,34
+ATG,North America,Antigua and Barbuda,29-01-2022,6558,0
+ATG,North America,Antigua and Barbuda,30-01-2022,6558,0
+ATG,North America,Antigua and Barbuda,31-01-2022,6627,69
+ATG,North America,Antigua and Barbuda,01-02-2022,6627,0
+ATG,North America,Antigua and Barbuda,02-02-2022,6732,105
+ATG,North America,Antigua and Barbuda,03-02-2022,6732,0
+ATG,North America,Antigua and Barbuda,04-02-2022,6732,0
+ATG,North America,Antigua and Barbuda,05-02-2022,6732,0
+ATG,North America,Antigua and Barbuda,06-02-2022,6853,121
+ATG,North America,Antigua and Barbuda,07-02-2022,6853,0
+ATG,North America,Antigua and Barbuda,08-02-2022,6853,0
+ATG,North America,Antigua and Barbuda,09-02-2022,6853,0
+ATG,North America,Antigua and Barbuda,10-02-2022,7321,468
+ATG,North America,Antigua and Barbuda,11-02-2022,7331,10
+ATG,North America,Antigua and Barbuda,12-02-2022,7331,0
+ATG,North America,Antigua and Barbuda,13-02-2022,7331,0
+ATG,North America,Antigua and Barbuda,14-02-2022,7331,0
+ATG,North America,Antigua and Barbuda,15-02-2022,7342,11
+ATG,North America,Antigua and Barbuda,16-02-2022,7395,53
+ATG,North America,Antigua and Barbuda,17-02-2022,7395,0
+ATG,North America,Antigua and Barbuda,18-02-2022,7400,5
+ATG,North America,Antigua and Barbuda,19-02-2022,7408,8
+ARG,South America,Argentina,03-04-2020,1265,132
+ARG,South America,Argentina,04-04-2020,1451,186
+ARG,South America,Argentina,05-04-2020,1451,0
+ARG,South America,Argentina,06-04-2020,1554,103
+ARG,South America,Argentina,07-04-2020,1628,74
+ARG,South America,Argentina,08-04-2020,1715,87
+ARG,South America,Argentina,09-04-2020,1795,80
+ARG,South America,Argentina,10-04-2020,1975,180
+ARG,South America,Argentina,11-04-2020,1975,0
+ARG,South America,Argentina,12-04-2020,2142,167
+ARG,South America,Argentina,13-04-2020,2208,66
+ARG,South America,Argentina,14-04-2020,2277,69
+ARG,South America,Argentina,15-04-2020,2443,166
+ARG,South America,Argentina,16-04-2020,2571,128
+ARG,South America,Argentina,17-04-2020,2669,98
+ARG,South America,Argentina,18-04-2020,2758,89
+ARG,South America,Argentina,19-04-2020,2839,81
+ARG,South America,Argentina,20-04-2020,2941,102
+ARG,South America,Argentina,21-04-2020,3031,90
+ARG,South America,Argentina,22-04-2020,3144,113
+ARG,South America,Argentina,23-04-2020,3435,291
+ARG,South America,Argentina,24-04-2020,3607,172
+ARG,South America,Argentina,25-04-2020,3780,173
+ARG,South America,Argentina,26-04-2020,3892,112
+ARG,South America,Argentina,27-04-2020,4003,111
+ARG,South America,Argentina,28-04-2020,4127,124
+ARG,South America,Argentina,29-04-2020,4285,158
+ARG,South America,Argentina,30-04-2020,4428,143
+ARG,South America,Argentina,01-05-2020,4532,104
+ARG,South America,Argentina,02-05-2020,4681,149
+ARG,South America,Argentina,03-05-2020,4783,102
+ARG,South America,Argentina,04-05-2020,4887,104
+ARG,South America,Argentina,05-05-2020,5020,133
+ARG,South America,Argentina,06-05-2020,5208,188
+ARG,South America,Argentina,07-05-2020,5371,163
+ARG,South America,Argentina,08-05-2020,5611,240
+ARG,South America,Argentina,09-05-2020,5776,165
+ARG,South America,Argentina,10-05-2020,6034,258
+ARG,South America,Argentina,11-05-2020,6278,244
+ARG,South America,Argentina,12-05-2020,6563,285
+ARG,South America,Argentina,13-05-2020,6879,316
+ARG,South America,Argentina,14-05-2020,7134,255
+ARG,South America,Argentina,15-05-2020,7479,345
+ARG,South America,Argentina,16-05-2020,7805,326
+ARG,South America,Argentina,17-05-2020,8068,263
+ARG,South America,Argentina,18-05-2020,8371,303
+ARG,South America,Argentina,19-05-2020,8809,438
+ARG,South America,Argentina,20-05-2020,9283,474
+ARG,South America,Argentina,21-05-2020,9931,648
+ARG,South America,Argentina,22-05-2020,10649,718
+ARG,South America,Argentina,23-05-2020,11353,704
+ARG,South America,Argentina,24-05-2020,12076,723
+ARG,South America,Argentina,25-05-2020,12628,552
+ARG,South America,Argentina,26-05-2020,13228,600
+ARG,South America,Argentina,27-05-2020,13933,705
+ARG,South America,Argentina,28-05-2020,14702,769
+ARG,South America,Argentina,29-05-2020,15419,717
+ARG,South America,Argentina,30-05-2020,16214,795
+ARG,South America,Argentina,31-05-2020,16851,637
+ARG,South America,Argentina,01-06-2020,17415,564
+ARG,South America,Argentina,02-06-2020,18319,904
+ARG,South America,Argentina,03-06-2020,19268,949
+ARG,South America,Argentina,04-06-2020,20197,929
+ARG,South America,Argentina,05-06-2020,21037,840
+ARG,South America,Argentina,06-06-2020,22020,983
+ARG,South America,Argentina,07-06-2020,22794,774
+ARG,South America,Argentina,08-06-2020,23620,826
+ARG,South America,Argentina,09-06-2020,24761,1141
+ARG,South America,Argentina,10-06-2020,25987,1226
+ARG,South America,Argentina,11-06-2020,27373,1386
+ARG,South America,Argentina,12-06-2020,28764,1391
+ARG,South America,Argentina,13-06-2020,30295,1531
+ARG,South America,Argentina,14-06-2020,31577,1282
+ARG,South America,Argentina,15-06-2020,32785,1208
+ARG,South America,Argentina,16-06-2020,34159,1374
+ARG,South America,Argentina,17-06-2020,35552,1393
+ARG,South America,Argentina,18-06-2020,37510,1958
+ARG,South America,Argentina,19-06-2020,39570,2060
+ARG,South America,Argentina,20-06-2020,41204,1634
+ARG,South America,Argentina,21-06-2020,42785,1581
+ARG,South America,Argentina,22-06-2020,44931,2146
+ARG,South America,Argentina,23-06-2020,47203,2272
+ARG,South America,Argentina,24-06-2020,49851,2648
+ARG,South America,Argentina,25-06-2020,52457,2606
+ARG,South America,Argentina,26-06-2020,55343,2886
+ARG,South America,Argentina,27-06-2020,57744,2401
+ARG,South America,Argentina,28-06-2020,59933,2189
+ARG,South America,Argentina,29-06-2020,62268,2335
+ARG,South America,Argentina,30-06-2020,64530,2262
+ARG,South America,Argentina,01-07-2020,67197,2667
+ARG,South America,Argentina,02-07-2020,69941,2744
+ARG,South America,Argentina,03-07-2020,72786,2845
+ARG,South America,Argentina,04-07-2020,75376,2590
+ARG,South America,Argentina,05-07-2020,77815,2439
+ARG,South America,Argentina,06-07-2020,80447,2632
+ARG,South America,Argentina,07-07-2020,83426,2979
+ARG,South America,Argentina,08-07-2020,87030,3604
+ARG,South America,Argentina,09-07-2020,90693,3663
+ARG,South America,Argentina,10-07-2020,94060,3367
+ARG,South America,Argentina,11-07-2020,97509,3449
+ARG,South America,Argentina,12-07-2020,100166,2657
+ARG,South America,Argentina,13-07-2020,103265,3099
+ARG,South America,Argentina,14-07-2020,106910,3645
+ARG,South America,Argentina,15-07-2020,111146,4236
+ARG,South America,Argentina,16-07-2020,114783,3637
+ARG,South America,Argentina,17-07-2020,119301,4518
+ARG,South America,Argentina,18-07-2020,122524,3223
+ARG,South America,Argentina,19-07-2020,126755,4231
+ARG,South America,Argentina,20-07-2020,130774,4019
+ARG,South America,Argentina,21-07-2020,136118,5344
+ARG,South America,Argentina,22-07-2020,141900,5782
+ARG,South America,Argentina,23-07-2020,148027,6127
+ARG,South America,Argentina,24-07-2020,153520,5493
+ARG,South America,Argentina,25-07-2020,158334,4814
+ARG,South America,Argentina,26-07-2020,162526,4192
+ARG,South America,Argentina,27-07-2020,167416,4890
+ARG,South America,Argentina,28-07-2020,173355,5939
+ARG,South America,Argentina,29-07-2020,178996,5641
+ARG,South America,Argentina,30-07-2020,185373,6377
+ARG,South America,Argentina,31-07-2020,191302,5929
+ARG,South America,Argentina,01-08-2020,196543,5241
+ARG,South America,Argentina,02-08-2020,201919,5376
+ARG,South America,Argentina,03-08-2020,206743,4824
+ARG,South America,Argentina,04-08-2020,213535,6792
+ARG,South America,Argentina,05-08-2020,220682,7147
+ARG,South America,Argentina,06-08-2020,228195,7513
+ARG,South America,Argentina,07-08-2020,235677,7482
+ARG,South America,Argentina,08-08-2020,241811,6134
+ARG,South America,Argentina,09-08-2020,246499,4688
+ARG,South America,Argentina,10-08-2020,253868,7369
+ARG,South America,Argentina,11-08-2020,260911,7043
+ARG,South America,Argentina,12-08-2020,268574,7663
+ARG,South America,Argentina,13-08-2020,276072,7498
+ARG,South America,Argentina,14-08-2020,282437,6365
+ARG,South America,Argentina,15-08-2020,289100,6663
+ARG,South America,Argentina,16-08-2020,294569,5469
+ARG,South America,Argentina,17-08-2020,299126,4557
+ARG,South America,Argentina,18-08-2020,305966,6840
+ARG,South America,Argentina,19-08-2020,312659,6693
+ARG,South America,Argentina,20-08-2020,320884,8225
+ARG,South America,Argentina,21-08-2020,329043,8159
+ARG,South America,Argentina,22-08-2020,336802,7759
+ARG,South America,Argentina,23-08-2020,342154,5352
+ARG,South America,Argentina,24-08-2020,350867,8713
+ARG,South America,Argentina,25-08-2020,359638,8771
+ARG,South America,Argentina,26-08-2020,370188,10550
+ARG,South America,Argentina,27-08-2020,380292,10104
+ARG,South America,Argentina,28-08-2020,392009,11717
+ARG,South America,Argentina,29-08-2020,401239,9230
+ARG,South America,Argentina,30-08-2020,408426,7187
+ARG,South America,Argentina,31-08-2020,417735,9309
+ARG,South America,Argentina,01-09-2020,428239,10504
+ARG,South America,Argentina,02-09-2020,439172,10933
+ARG,South America,Argentina,03-09-2020,451198,12026
+ARG,South America,Argentina,04-09-2020,461882,10684
+ARG,South America,Argentina,05-09-2020,471806,9924
+ARG,South America,Argentina,06-09-2020,478792,6986
+ARG,South America,Argentina,07-09-2020,488007,9215
+ARG,South America,Argentina,08-09-2020,500034,12027
+ARG,South America,Argentina,09-09-2020,512293,12259
+ARG,South America,Argentina,10-09-2020,524198,11905
+ARG,South America,Argentina,11-09-2020,535705,11507
+ARG,South America,Argentina,12-09-2020,546481,10776
+ARG,South America,Argentina,13-09-2020,555537,9056
+ARG,South America,Argentina,14-09-2020,565446,9909
+ARG,South America,Argentina,15-09-2020,577338,11892
+ARG,South America,Argentina,16-09-2020,589012,11674
+ARG,South America,Argentina,17-09-2020,601713,12701
+ARG,South America,Argentina,18-09-2020,613658,11945
+ARG,South America,Argentina,19-09-2020,622934,9276
+ARG,South America,Argentina,20-09-2020,631365,8431
+ARG,South America,Argentina,21-09-2020,640147,8782
+ARG,South America,Argentina,22-09-2020,652174,12027
+ARG,South America,Argentina,23-09-2020,664799,12625
+ARG,South America,Argentina,24-09-2020,678266,13467
+ARG,South America,Argentina,25-09-2020,691235,12969
+ARG,South America,Argentina,26-09-2020,702484,11249
+ARG,South America,Argentina,27-09-2020,711325,8841
+ARG,South America,Argentina,28-09-2020,723132,11807
+ARG,South America,Argentina,29-09-2020,736609,13477
+ARG,South America,Argentina,30-09-2020,751001,14392
+ARG,South America,Argentina,01-10-2020,765002,14001
+ARG,South America,Argentina,02-10-2020,779689,14687
+ARG,South America,Argentina,03-10-2020,790818,11129
+ARG,South America,Argentina,04-10-2020,798486,7668
+ARG,South America,Argentina,05-10-2020,809728,11242
+ARG,South America,Argentina,06-10-2020,824468,14740
+ARG,South America,Argentina,07-10-2020,840915,16447
+ARG,South America,Argentina,08-10-2020,856369,15454
+ARG,South America,Argentina,09-10-2020,871468,15099
+ARG,South America,Argentina,10-10-2020,883882,12414
+ARG,South America,Argentina,11-10-2020,894206,10324
+ARG,South America,Argentina,12-10-2020,903730,9524
+ARG,South America,Argentina,13-10-2020,917035,13305
+ARG,South America,Argentina,14-10-2020,931967,14932
+ARG,South America,Argentina,15-10-2020,949063,17096
+ARG,South America,Argentina,16-10-2020,965609,16546
+ARG,South America,Argentina,17-10-2020,979119,13510
+ARG,South America,Argentina,18-10-2020,989680,10561
+ARG,South America,Argentina,19-10-2020,1002662,12982
+ARG,South America,Argentina,20-10-2020,1018999,16337
+ARG,South America,Argentina,21-10-2020,1037325,18326
+ARG,South America,Argentina,22-10-2020,1053650,16325
+ARG,South America,Argentina,23-10-2020,1069368,15718
+ARG,South America,Argentina,24-10-2020,1081336,11968
+ARG,South America,Argentina,25-10-2020,1090589,9253
+ARG,South America,Argentina,26-10-2020,1102301,11712
+ARG,South America,Argentina,27-10-2020,1116609,14308
+ARG,South America,Argentina,28-10-2020,1130533,13924
+ARG,South America,Argentina,29-10-2020,1143800,13267
+ARG,South America,Argentina,30-10-2020,1157179,13379
+ARG,South America,Argentina,31-10-2020,1166924,9745
+ARG,South America,Argentina,01-11-2020,1173533,6609
+ARG,South America,Argentina,02-11-2020,1183131,9598
+ARG,South America,Argentina,03-11-2020,1195276,12145
+ARG,South America,Argentina,04-11-2020,1205928,10652
+ARG,South America,Argentina,05-11-2020,1217028,11100
+ARG,South America,Argentina,06-11-2020,1228814,11786
+ARG,South America,Argentina,07-11-2020,1236851,8037
+ARG,South America,Argentina,08-11-2020,1242182,5331
+ARG,South America,Argentina,09-11-2020,1250499,8317
+ARG,South America,Argentina,10-11-2020,1262476,11977
+ARG,South America,Argentina,11-11-2020,1273356,10880
+ARG,South America,Argentina,12-11-2020,1284519,11163
+ARG,South America,Argentina,13-11-2020,1296378,11859
+ARG,South America,Argentina,14-11-2020,1304846,8468
+ARG,South America,Argentina,15-11-2020,1310491,5645
+ARG,South America,Argentina,16-11-2020,1318384,7893
+ARG,South America,Argentina,17-11-2020,1329005,10621
+ARG,South America,Argentina,18-11-2020,1339337,10332
+ARG,South America,Argentina,19-11-2020,1349434,10097
+ARG,South America,Argentina,20-11-2020,1359042,9608
+ARG,South America,Argentina,21-11-2020,1366182,7140
+ARG,South America,Argentina,22-11-2020,1370366,4184
+ARG,South America,Argentina,23-11-2020,1374631,4265
+ARG,South America,Argentina,24-11-2020,1381795,7164
+ARG,South America,Argentina,25-11-2020,1390388,8593
+ARG,South America,Argentina,26-11-2020,1399431,9043
+ARG,South America,Argentina,27-11-2020,1407277,7846
+ARG,South America,Argentina,28-11-2020,1413375,6098
+ARG,South America,Argentina,29-11-2020,1418807,5432
+ARG,South America,Argentina,30-11-2020,1424533,5726
+ARG,South America,Argentina,01-12-2020,1432570,8037
+ARG,South America,Argentina,02-12-2020,1440103,7533
+ARG,South America,Argentina,03-12-2020,1447732,7629
+ARG,South America,Argentina,04-12-2020,1454631,6899
+ARG,South America,Argentina,05-12-2020,1459832,5201
+ARG,South America,Argentina,06-12-2020,1463110,3278
+ARG,South America,Argentina,07-12-2020,1466309,3199
+ARG,South America,Argentina,08-12-2020,1469919,3610
+ARG,South America,Argentina,09-12-2020,1475222,5303
+ARG,South America,Argentina,10-12-2020,1482216,6994
+ARG,South America,Argentina,11-12-2020,1489328,7112
+ARG,South America,Argentina,12-12-2020,1494602,5274
+ARG,South America,Argentina,13-12-2020,1498160,3558
+ARG,South America,Argentina,14-12-2020,1503222,5062
+ARG,South America,Argentina,15-12-2020,1510203,6981
+ARG,South America,Argentina,16-12-2020,1517046,6843
+ARG,South America,Argentina,17-12-2020,1524372,7326
+ARG,South America,Argentina,18-12-2020,1531374,7002
+ARG,South America,Argentina,19-12-2020,1537169,5795
+ARG,South America,Argentina,20-12-2020,1541285,4116
+ARG,South America,Argentina,21-12-2020,1547138,5853
+ARG,South America,Argentina,22-12-2020,1555279,8141
+ARG,South America,Argentina,23-12-2020,1563865,8586
+ARG,South America,Argentina,24-12-2020,1563865,0
+ARG,South America,Argentina,25-12-2020,1574554,10689
+ARG,South America,Argentina,26-12-2020,1578267,3713
+ARG,South America,Argentina,27-12-2020,1583297,5030
+ARG,South America,Argentina,28-12-2020,1590513,7216
+ARG,South America,Argentina,29-12-2020,1602163,11650
+ARG,South America,Argentina,30-12-2020,1613928,11765
+ARG,South America,Argentina,31-12-2020,1625514,11586
+ARG,South America,Argentina,01-01-2021,1629594,4080
+ARG,South America,Argentina,02-01-2021,1634834,5240
+ARG,South America,Argentina,03-01-2021,1640718,5884
+ARG,South America,Argentina,04-01-2021,1648940,8222
+ARG,South America,Argentina,05-01-2021,1662730,13790
+ARG,South America,Argentina,06-01-2021,1676171,13441
+ARG,South America,Argentina,07-01-2021,1690006,13835
+ARG,South America,Argentina,08-01-2021,1703352,13346
+ARG,South America,Argentina,09-01-2021,1714409,11057
+ARG,South America,Argentina,10-01-2021,1722217,7808
+ARG,South America,Argentina,11-01-2021,1730921,8704
+ARG,South America,Argentina,12-01-2021,1744704,13783
+ARG,South America,Argentina,13-01-2021,1757429,12725
+ARG,South America,Argentina,14-01-2021,1770715,13286
+ARG,South America,Argentina,15-01-2021,1783047,12332
+ARG,South America,Argentina,16-01-2021,1791979,8932
+ARG,South America,Argentina,17-01-2021,1799243,7264
+ARG,South America,Argentina,18-01-2021,1807428,8185
+ARG,South America,Argentina,19-01-2021,1819569,12141
+ARG,South America,Argentina,20-01-2021,1831681,12112
+ARG,South America,Argentina,21-01-2021,1843077,11396
+ARG,South America,Argentina,22-01-2021,1853830,10753
+ARG,South America,Argentina,23-01-2021,1862192,8362
+ARG,South America,Argentina,24-01-2021,1867223,5031
+ARG,South America,Argentina,25-01-2021,1874801,7578
+ARG,South America,Argentina,26-01-2021,1885210,10409
+ARG,South America,Argentina,27-01-2021,1896053,10843
+ARG,South America,Argentina,28-01-2021,1905524,9471
+ARG,South America,Argentina,29-01-2021,1915362,9838
+ARG,South America,Argentina,30-01-2021,1922264,6902
+ARG,South America,Argentina,31-01-2021,1927239,4975
+ARG,South America,Argentina,01-02-2021,1933853,6614
+ARG,South America,Argentina,02-02-2021,1943548,9695
+ARG,South America,Argentina,03-02-2021,1952744,9196
+ARG,South America,Argentina,04-02-2021,1961635,8891
+ARG,South America,Argentina,05-02-2021,1970009,8374
+ARG,South America,Argentina,06-02-2021,1976689,6680
+ARG,South America,Argentina,07-02-2021,1980347,3658
+ARG,South America,Argentina,08-02-2021,1985501,5154
+ARG,South America,Argentina,09-02-2021,1993295,7794
+ARG,South America,Argentina,10-02-2021,2001034,7739
+ARG,South America,Argentina,11-02-2021,2008345,7311
+ARG,South America,Argentina,12-02-2021,2015496,7151
+ARG,South America,Argentina,13-02-2021,2021553,6057
+ARG,South America,Argentina,14-02-2021,2025798,4245
+ARG,South America,Argentina,15-02-2021,2029057,3259
+ARG,South America,Argentina,16-02-2021,2033060,4003
+ARG,South America,Argentina,17-02-2021,2039124,6064
+ARG,South America,Argentina,18-02-2021,2046795,7671
+ARG,South America,Argentina,19-02-2021,2054681,7886
+ARG,South America,Argentina,20-02-2021,2060625,5944
+ARG,South America,Argentina,21-02-2021,2064334,3709
+ARG,South America,Argentina,22-02-2021,2069751,5417
+ARG,South America,Argentina,23-02-2021,2077228,7477
+ARG,South America,Argentina,24-02-2021,2085411,8183
+ARG,South America,Argentina,25-02-2021,2093645,8234
+ARG,South America,Argentina,26-02-2021,2098728,5083
+ARG,South America,Argentina,27-02-2021,2104197,5469
+ARG,South America,Argentina,28-02-2021,2107365,3168
+ARG,South America,Argentina,01-03-2021,2112023,4658
+ARG,South America,Argentina,02-03-2021,2118676,6653
+ARG,South America,Argentina,03-03-2021,2126531,7855
+ARG,South America,Argentina,04-03-2021,2133963,7432
+ARG,South America,Argentina,05-03-2021,2141854,7891
+ARG,South America,Argentina,06-03-2021,2146714,4860
+ARG,South America,Argentina,07-03-2021,2149636,2922
+ARG,South America,Argentina,08-03-2021,2154694,5058
+ARG,South America,Argentina,09-03-2021,2162001,7307
+ARG,South America,Argentina,10-03-2021,2169694,7693
+ARG,South America,Argentina,11-03-2021,2177898,8204
+ARG,South America,Argentina,12-03-2021,2185747,7849
+ARG,South America,Argentina,13-03-2021,2192025,6278
+ARG,South America,Argentina,14-03-2021,2195722,3697
+ARG,South America,Argentina,15-03-2021,2201886,6164
+ARG,South America,Argentina,16-03-2021,2210121,8235
+ARG,South America,Argentina,17-03-2021,2218425,8304
+ARG,South America,Argentina,18-03-2021,2226753,8328
+ARG,South America,Argentina,19-03-2021,2234913,8160
+ARG,South America,Argentina,20-03-2021,2241739,6826
+ARG,South America,Argentina,21-03-2021,2245771,4032
+ARG,South America,Argentina,22-03-2021,2252172,6401
+ARG,South America,Argentina,23-03-2021,2261577,9405
+ARG,South America,Argentina,24-03-2021,2269877,8300
+ARG,South America,Argentina,25-03-2021,2278115,8238
+ARG,South America,Argentina,26-03-2021,2291051,12936
+ARG,South America,Argentina,27-03-2021,2301389,10338
+ARG,South America,Argentina,28-03-2021,2308597,7208
+ARG,South America,Argentina,29-03-2021,2322611,14014
+ARG,South America,Argentina,30-03-2021,2332765,10154
+ARG,South America,Argentina,31-03-2021,2348821,16056
+ARG,South America,Argentina,01-04-2021,2363251,14430
+ARG,South America,Argentina,02-04-2021,2373153,9902
+ARG,South America,Argentina,03-04-2021,2383537,10384
+ARG,South America,Argentina,04-04-2021,2393492,9955
+ARG,South America,Argentina,05-04-2021,2407159,13667
+ARG,South America,Argentina,06-04-2021,2428029,20870
+ARG,South America,Argentina,07-04-2021,2450068,22039
+ARG,South America,Argentina,08-04-2021,2473751,23683
+ARG,South America,Argentina,09-04-2021,2497881,24130
+ARG,South America,Argentina,10-04-2021,2517300,19419
+ARG,South America,Argentina,11-04-2021,2532562,15262
+ARG,South America,Argentina,12-04-2021,2551999,19437
+ARG,South America,Argentina,13-04-2021,2579000,27001
+ARG,South America,Argentina,14-04-2021,2604157,25157
+ARG,South America,Argentina,15-04-2021,2629156,24999
+ARG,South America,Argentina,16-04-2021,2658628,29472
+ARG,South America,Argentina,17-04-2021,2677747,19119
+ARG,South America,Argentina,18-04-2021,2694014,16267
+ARG,South America,Argentina,19-04-2021,2714475,20461
+ARG,South America,Argentina,20-04-2021,2743620,29145
+ARG,South America,Argentina,21-04-2021,2769552,25932
+ARG,South America,Argentina,22-04-2021,2796768,27216
+ARG,South America,Argentina,23-04-2021,2824652,27884
+ARG,South America,Argentina,24-04-2021,2845872,21220
+ARG,South America,Argentina,25-04-2021,2860884,15012
+ARG,South America,Argentina,26-04-2021,2879677,18793
+ARG,South America,Argentina,27-04-2021,2905172,25495
+ARG,South America,Argentina,28-04-2021,2928890,23718
+ARG,South America,Argentina,29-04-2021,2954943,26053
+ARG,South America,Argentina,30-04-2021,2977363,22420
+ARG,South America,Argentina,01-05-2021,2993865,16502
+ARG,South America,Argentina,02-05-2021,3005259,11394
+ARG,South America,Argentina,03-05-2021,3021179,15920
+ARG,South America,Argentina,04-05-2021,3047417,26238
+ARG,South America,Argentina,05-05-2021,3071496,24079
+ARG,South America,Argentina,06-05-2021,3095582,24086
+ARG,South America,Argentina,07-05-2021,3118134,22552
+ARG,South America,Argentina,08-05-2021,3136158,18024
+ARG,South America,Argentina,09-05-2021,3147740,11582
+ARG,South America,Argentina,10-05-2021,3165121,17381
+ARG,South America,Argentina,11-05-2021,3191097,25976
+ARG,South America,Argentina,12-05-2021,3215572,24475
+ARG,South America,Argentina,13-05-2021,3242103,26531
+ARG,South America,Argentina,14-05-2021,3269466,27363
+ARG,South America,Argentina,15-05-2021,3290935,21469
+ARG,South America,Argentina,16-05-2021,3307285,16350
+ARG,South America,Argentina,17-05-2021,3335965,28680
+ARG,South America,Argentina,18-05-2021,3371508,35543
+ARG,South America,Argentina,19-05-2021,3411160,39652
+ARG,South America,Argentina,20-05-2021,3447044,35884
+ARG,South America,Argentina,21-05-2021,3482512,35468
+ARG,South America,Argentina,22-05-2021,3514683,32171
+ARG,South America,Argentina,23-05-2021,3539484,24801
+ARG,South America,Argentina,24-05-2021,3562135,22651
+ARG,South America,Argentina,25-05-2021,3586736,24601
+ARG,South America,Argentina,26-05-2021,3622135,35399
+ARG,South America,Argentina,27-05-2021,3663215,41080
+ARG,South America,Argentina,28-05-2021,3702422,39207
+ARG,South America,Argentina,29-05-2021,3732263,29841
+ARG,South America,Argentina,30-05-2021,3753609,21346
+ARG,South America,Argentina,31-05-2021,3781784,28175
+ARG,South America,Argentina,01-06-2021,3817139,35355
+ARG,South America,Argentina,02-06-2021,3852156,35017
+ARG,South America,Argentina,03-06-2021,3884447,32291
+ARG,South America,Argentina,04-06-2021,3915397,30950
+ARG,South America,Argentina,05-06-2021,3939024,23627
+ARG,South America,Argentina,06-06-2021,3955439,16415
+ARG,South America,Argentina,07-06-2021,3977634,22195
+ARG,South America,Argentina,08-06-2021,4008771,31137
+ARG,South America,Argentina,09-06-2021,4038528,29757
+ARG,South America,Argentina,10-06-2021,4066156,27628
+ARG,South America,Argentina,11-06-2021,4093090,26934
+ARG,South America,Argentina,12-06-2021,4111147,18057
+ARG,South America,Argentina,13-06-2021,4124190,13043
+ARG,South America,Argentina,14-06-2021,4145482,21292
+ARG,South America,Argentina,15-06-2021,4172742,27260
+ARG,South America,Argentina,16-06-2021,4198620,25878
+ARG,South America,Argentina,17-06-2021,4222400,23780
+ARG,South America,Argentina,18-06-2021,4242763,20363
+ARG,South America,Argentina,19-06-2021,4258394,15631
+ARG,South America,Argentina,20-06-2021,4268789,10395
+ARG,South America,Argentina,21-06-2021,4277395,8606
+ARG,South America,Argentina,22-06-2021,4298782,21387
+ARG,South America,Argentina,23-06-2021,4326101,27319
+ARG,South America,Argentina,24-06-2021,4350564,24463
+ARG,South America,Argentina,25-06-2021,4374587,24023
+ARG,South America,Argentina,26-06-2021,4393142,18555
+ARG,South America,Argentina,27-06-2021,4405247,12105
+ARG,South America,Argentina,28-06-2021,4423636,18389
+ARG,South America,Argentina,29-06-2021,4447701,24065
+ARG,South America,Argentina,30-06-2021,4470374,22673
+ARG,South America,Argentina,01-07-2021,4491551,21177
+ARG,South America,Argentina,02-07-2021,4512439,20888
+ARG,South America,Argentina,03-07-2021,4526473,14034
+ARG,South America,Argentina,04-07-2021,4535473,9000
+ARG,South America,Argentina,05-07-2021,4552750,17277
+ARG,South America,Argentina,06-07-2021,4574340,21590
+ARG,South America,Argentina,07-07-2021,4593763,19423
+ARG,South America,Argentina,08-07-2021,4613019,19256
+ARG,South America,Argentina,09-07-2021,4627537,14518
+ARG,South America,Argentina,10-07-2021,4639098,11561
+ARG,South America,Argentina,11-07-2021,4647948,8850
+ARG,South America,Argentina,12-07-2021,4662937,14989
+ARG,South America,Argentina,13-07-2021,4682960,20023
+ARG,South America,Argentina,14-07-2021,4702657,19697
+ARG,South America,Argentina,15-07-2021,4719952,17295
+ARG,South America,Argentina,16-07-2021,4737213,17261
+ARG,South America,Argentina,17-07-2021,4749443,12230
+ARG,South America,Argentina,18-07-2021,4756378,6935
+ARG,South America,Argentina,19-07-2021,4769142,12764
+ARG,South America,Argentina,20-07-2021,4784219,15077
+ARG,South America,Argentina,21-07-2021,4798851,14632
+ARG,South America,Argentina,22-07-2021,4812351,13500
+ARG,South America,Argentina,23-07-2021,4827973,15622
+ARG,South America,Argentina,24-07-2021,4839109,11136
+ARG,South America,Argentina,25-07-2021,4846615,7506
+ARG,South America,Argentina,26-07-2021,4859170,12555
+ARG,South America,Argentina,27-07-2021,4875927,16757
+ARG,South America,Argentina,28-07-2021,4891810,15883
+ARG,South America,Argentina,29-07-2021,4905925,14115
+ARG,South America,Argentina,30-07-2021,4919408,13483
+ARG,South America,Argentina,31-07-2021,4929764,10356
+ARG,South America,Argentina,01-08-2021,4935847,6083
+ARG,South America,Argentina,02-08-2021,4947030,11183
+ARG,South America,Argentina,03-08-2021,4961880,14850
+ARG,South America,Argentina,04-08-2021,4975616,13736
+ARG,South America,Argentina,05-08-2021,4989402,13786
+ARG,South America,Argentina,06-08-2021,5002951,13549
+ARG,South America,Argentina,07-08-2021,5012754,9803
+ARG,South America,Argentina,08-08-2021,5018895,6141
+ARG,South America,Argentina,09-08-2021,5029075,10180
+ARG,South America,Argentina,10-08-2021,5041487,12412
+ARG,South America,Argentina,11-08-2021,5052884,11397
+ARG,South America,Argentina,12-08-2021,5066253,13369
+ARG,South America,Argentina,13-08-2021,5074725,8472
+ARG,South America,Argentina,14-08-2021,5080908,6183
+ARG,South America,Argentina,15-08-2021,5084635,3727
+ARG,South America,Argentina,16-08-2021,5088271,3636
+ARG,South America,Argentina,17-08-2021,5096443,8172
+ARG,South America,Argentina,18-08-2021,5106207,9764
+ARG,South America,Argentina,19-08-2021,5116803,10596
+ARG,South America,Argentina,20-08-2021,5124963,8160
+ARG,South America,Argentina,21-08-2021,5130852,5889
+ARG,South America,Argentina,22-08-2021,5133831,2979
+ARG,South America,Argentina,23-08-2021,5139966,6135
+ARG,South America,Argentina,24-08-2021,5148085,8119
+ARG,South America,Argentina,25-08-2021,5155079,6994
+ARG,South America,Argentina,26-08-2021,5161926,6847
+ARG,South America,Argentina,27-08-2021,5167733,5807
+ARG,South America,Argentina,28-08-2021,5171458,3725
+ARG,South America,Argentina,29-08-2021,5173531,2073
+ARG,South America,Argentina,30-08-2021,5178889,5358
+ARG,South America,Argentina,31-08-2021,5185620,6731
+ARG,South America,Argentina,01-09-2021,5190948,5328
+ARG,South America,Argentina,02-09-2021,5195601,4653
+ARG,South America,Argentina,03-09-2021,5199919,4318
+ARG,South America,Argentina,04-09-2021,5202405,2486
+ARG,South America,Argentina,05-09-2021,5203802,1397
+ARG,South America,Argentina,06-09-2021,5207695,3893
+ARG,South America,Argentina,07-09-2021,5211801,4106
+ARG,South America,Argentina,08-09-2021,5215332,3531
+ARG,South America,Argentina,09-09-2021,5218993,3661
+ARG,South America,Argentina,10-09-2021,5221809,2816
+ARG,South America,Argentina,11-09-2021,5223604,1795
+ARG,South America,Argentina,12-09-2021,5224534,930
+ARG,South America,Argentina,13-09-2021,5226831,2297
+ARG,South America,Argentina,14-09-2021,5229848,3017
+ARG,South America,Argentina,15-09-2021,5232358,2510
+ARG,South America,Argentina,16-09-2021,5234851,2493
+ARG,South America,Argentina,17-09-2021,5237159,2308
+ARG,South America,Argentina,18-09-2021,5238610,1451
+ARG,South America,Argentina,19-09-2021,5239232,622
+ARG,South America,Argentina,20-09-2021,5241394,2162
+ARG,South America,Argentina,21-09-2021,5243231,1837
+ARG,South America,Argentina,22-09-2021,5245265,2034
+ARG,South America,Argentina,23-09-2021,5246998,1733
+ARG,South America,Argentina,24-09-2021,5248847,1849
+ARG,South America,Argentina,25-09-2021,5249840,993
+ARG,South America,Argentina,26-09-2021,5250402,562
+ARG,South America,Argentina,27-09-2021,5251940,1538
+ARG,South America,Argentina,28-09-2021,5253765,1825
+ARG,South America,Argentina,29-09-2021,5255261,1496
+ARG,South America,Argentina,30-09-2021,5256902,1641
+ARG,South America,Argentina,01-10-2021,5258466,1564
+ARG,South America,Argentina,02-10-2021,5259352,886
+ARG,South America,Argentina,03-10-2021,5259738,386
+ARG,South America,Argentina,04-10-2021,5260719,981
+ARG,South America,Argentina,05-10-2021,5261935,1216
+ARG,South America,Argentina,06-10-2021,5263219,1284
+ARG,South America,Argentina,07-10-2021,5264305,1086
+ARG,South America,Argentina,08-10-2021,5265058,753
+ARG,South America,Argentina,09-10-2021,5265528,470
+ARG,South America,Argentina,10-10-2021,5265859,331
+ARG,South America,Argentina,11-10-2021,5266275,416
+ARG,South America,Argentina,12-10-2021,5267339,1064
+ARG,South America,Argentina,13-10-2021,5268653,1314
+ARG,South America,Argentina,14-10-2021,5270003,1350
+ARG,South America,Argentina,15-10-2021,5271361,1358
+ARG,South America,Argentina,16-10-2021,5272151,790
+ARG,South America,Argentina,17-10-2021,5272551,400
+ARG,South America,Argentina,18-10-2021,5273463,912
+ARG,South America,Argentina,19-10-2021,5274766,1303
+ARG,South America,Argentina,20-10-2021,5275984,1218
+ARG,South America,Argentina,21-10-2021,5277525,1541
+ARG,South America,Argentina,22-10-2021,5278910,1385
+ARG,South America,Argentina,23-10-2021,5279818,908
+ARG,South America,Argentina,24-10-2021,5280358,540
+ARG,South America,Argentina,25-10-2021,5281585,1227
+ARG,South America,Argentina,26-10-2021,5283000,1415
+ARG,South America,Argentina,27-10-2021,5284485,1485
+ARG,South America,Argentina,28-10-2021,5286074,1589
+ARG,South America,Argentina,29-10-2021,5287447,1373
+ARG,South America,Argentina,30-10-2021,5288259,812
+ARG,South America,Argentina,31-10-2021,5288807,548
+ARG,South America,Argentina,01-11-2021,5289945,1138
+ARG,South America,Argentina,02-11-2021,5291285,1340
+ARG,South America,Argentina,03-11-2021,5292549,1264
+ARG,South America,Argentina,04-11-2021,5293989,1440
+ARG,South America,Argentina,05-11-2021,5295260,1271
+ARG,South America,Argentina,06-11-2021,5296188,928
+ARG,South America,Argentina,07-11-2021,5296781,593
+ARG,South America,Argentina,08-11-2021,5298069,1288
+ARG,South America,Argentina,09-11-2021,5299418,1349
+ARG,South America,Argentina,10-11-2021,5300985,1567
+ARG,South America,Argentina,11-11-2021,5302445,1460
+ARG,South America,Argentina,12-11-2021,5304059,1614
+ARG,South America,Argentina,13-11-2021,5305151,1092
+ARG,South America,Argentina,14-11-2021,5305742,591
+ARG,South America,Argentina,15-11-2021,5307159,1417
+ARG,South America,Argentina,16-11-2021,5308781,1622
+ARG,South America,Argentina,17-11-2021,5310334,1553
+ARG,South America,Argentina,18-11-2021,5312089,1755
+ARG,South America,Argentina,19-11-2021,5313607,1518
+ARG,South America,Argentina,20-11-2021,5314702,1095
+ARG,South America,Argentina,21-11-2021,5315348,646
+ARG,South America,Argentina,22-11-2021,5315989,641
+ARG,South America,Argentina,23-11-2021,5317633,1644
+ARG,South America,Argentina,24-11-2021,5319867,2234
+ARG,South America,Argentina,25-11-2021,5322127,2260
+ARG,South America,Argentina,26-11-2021,5324039,1912
+ARG,South America,Argentina,27-11-2021,5325560,1521
+ARG,South America,Argentina,28-11-2021,5326448,888
+ARG,South America,Argentina,29-11-2021,5328416,1968
+ARG,South America,Argentina,30-11-2021,5330748,2332
+ARG,South America,Argentina,01-12-2021,5332629,1881
+ARG,South America,Argentina,02-12-2021,5335310,2681
+ARG,South America,Argentina,03-12-2021,5337692,2382
+ARG,South America,Argentina,04-12-2021,5339382,1690
+ARG,South America,Argentina,05-12-2021,5340676,1294
+ARG,South America,Argentina,06-12-2021,5343153,2477
+ARG,South America,Argentina,07-12-2021,5346242,3089
+ARG,South America,Argentina,08-12-2021,5348123,1881
+ARG,South America,Argentina,09-12-2021,5350867,2744
+ARG,South America,Argentina,10-12-2021,5354440,3573
+ARG,South America,Argentina,11-12-2021,5356885,2445
+ARG,South America,Argentina,12-12-2021,5358455,1570
+ARG,South America,Argentina,13-12-2021,5361967,3512
+ARG,South America,Argentina,14-12-2021,5366522,4555
+ARG,South America,Argentina,15-12-2021,5371341,4819
+ARG,South America,Argentina,16-12-2021,5376642,5301
+ARG,South America,Argentina,17-12-2021,5382290,5648
+ARG,South America,Argentina,18-12-2021,5386453,4163
+ARG,South America,Argentina,19-12-2021,5389707,3254
+ARG,South America,Argentina,20-12-2021,5395044,5337
+ARG,South America,Argentina,21-12-2021,5404380,9336
+ARG,South America,Argentina,22-12-2021,5415501,11121
+ARG,South America,Argentina,23-12-2021,5428957,13456
+ARG,South America,Argentina,24-12-2021,5445236,16279
+ARG,South America,Argentina,25-12-2021,5452419,7183
+ARG,South America,Argentina,26-12-2021,5460042,7623
+ARG,South America,Argentina,27-12-2021,5480305,20263
+ARG,South America,Argentina,28-12-2021,5514207,33902
+ARG,South America,Argentina,29-12-2021,5556239,42032
+ARG,South America,Argentina,30-12-2021,5606745,50506
+ARG,South America,Argentina,31-12-2021,5654408,47663
+ARG,South America,Argentina,01-01-2022,5674428,20020
+ARG,South America,Argentina,02-01-2022,5694930,20502
+ARG,South America,Argentina,03-01-2022,5739326,44396
+ARG,South America,Argentina,04-01-2022,5820536,81210
+ARG,South America,Argentina,05-01-2022,5915695,95159
+ARG,South America,Argentina,06-01-2022,6025303,109608
+ARG,South America,Argentina,07-01-2022,6135836,110533
+ARG,South America,Argentina,08-01-2022,6237525,101689
+ARG,South America,Argentina,09-01-2022,6310844,73319
+ARG,South America,Argentina,10-01-2022,6399196,88352
+ARG,South America,Argentina,11-01-2022,6533635,134439
+ARG,South America,Argentina,12-01-2022,6664717,131082
+ARG,South America,Argentina,13-01-2022,6793119,128402
+ARG,South America,Argentina,14-01-2022,6932972,139853
+ARG,South America,Argentina,15-01-2022,7029624,96652
+ARG,South America,Argentina,16-01-2022,7094865,65241
+ARG,South America,Argentina,17-01-2022,7197323,102458
+ARG,South America,Argentina,18-01-2022,7318305,120982
+ARG,South America,Argentina,19-01-2022,7446626,128321
+ARG,South America,Argentina,20-01-2022,7576335,129709
+ARG,South America,Argentina,21-01-2022,7694506,118171
+ARG,South America,Argentina,22-01-2022,7792652,98146
+ARG,South America,Argentina,23-01-2022,7862536,69884
+ARG,South America,Argentina,24-01-2022,7940657,78121
+ARG,South America,Argentina,25-01-2022,8041520,100863
+ARM,Asia,Armenia,14-10-2020,58624,1058
+ARM,Asia,Armenia,15-10-2020,59995,1371
+ARM,Asia,Armenia,16-10-2020,61460,1465
+ARM,Asia,Armenia,17-10-2020,63000,1540
+ARM,Asia,Armenia,18-10-2020,64694,1694
+ARM,Asia,Armenia,19-10-2020,65460,766
+ARM,Asia,Armenia,20-10-2020,66694,1234
+ARM,Asia,Armenia,21-10-2020,68530,1836
+ARM,Asia,Armenia,22-10-2020,70836,2306
+ARM,Asia,Armenia,23-10-2020,73310,2474
+ARM,Asia,Armenia,24-10-2020,75523,2213
+ARM,Asia,Armenia,25-10-2020,77837,2314
+ARM,Asia,Armenia,26-10-2020,78810,973
+ARM,Asia,Armenia,27-10-2020,80410,1600
+ARM,Asia,Armenia,28-10-2020,82651,2241
+ARM,Asia,Armenia,29-10-2020,85034,2383
+ARM,Asia,Armenia,30-10-2020,87432,2398
+ARM,Asia,Armenia,31-10-2020,89813,2381
+ARM,Asia,Armenia,01-11-2020,92254,2441
+ARM,Asia,Armenia,02-11-2020,93448,1194
+ARM,Asia,Armenia,03-11-2020,94776,1328
+ARM,Asia,Armenia,04-11-2020,97150,2374
+ARM,Asia,Armenia,05-11-2020,99563,2413
+ARM,Asia,Armenia,06-11-2020,101773,2210
+ARM,Asia,Armenia,07-11-2020,104249,2476
+ARM,Asia,Armenia,08-11-2020,106424,2175
+ARM,Asia,Armenia,09-11-2020,107466,1042
+ARM,Asia,Armenia,10-11-2020,108687,1221
+ARM,Asia,Armenia,11-11-2020,110548,1861
+ARM,Asia,Armenia,12-11-2020,112680,2132
+ARM,Asia,Armenia,13-11-2020,114383,1703
+ARM,Asia,Armenia,14-11-2020,115855,1472
+ARM,Asia,Armenia,15-11-2020,117337,1482
+ARM,Asia,Armenia,16-11-2020,117886,549
+ARM,Asia,Armenia,17-11-2020,118870,984
+ARM,Asia,Armenia,18-11-2020,120459,1589
+ARM,Asia,Armenia,19-11-2020,121979,1520
+ARM,Asia,Armenia,20-11-2020,123646,1667
+ARM,Asia,Armenia,21-11-2020,124839,1193
+ARM,Asia,Armenia,22-11-2020,126224,1385
+ARM,Asia,Armenia,23-11-2020,126709,485
+ARM,Asia,Armenia,24-11-2020,127522,813
+ARM,Asia,Armenia,25-11-2020,129085,1563
+ARM,Asia,Armenia,26-11-2020,130870,1785
+ARM,Asia,Armenia,27-11-2020,132346,1476
+ARM,Asia,Armenia,28-11-2020,133594,1248
+ARM,Asia,Armenia,29-11-2020,134768,1174
+ARM,Asia,Armenia,30-11-2020,135124,356
+ARM,Asia,Armenia,01-12-2020,135967,843
+ARM,Asia,Armenia,02-12-2020,137231,1264
+ARM,Asia,Armenia,03-12-2020,138508,1277
+ARM,Asia,Armenia,04-12-2020,139692,1184
+ARM,Asia,Armenia,05-12-2020,140959,1267
+ARM,Asia,Armenia,06-12-2020,141937,978
+ARM,Asia,Armenia,07-12-2020,142344,407
+ARM,Asia,Armenia,08-12-2020,142928,584
+ARM,Asia,Armenia,09-12-2020,144066,1138
+ARM,Asia,Armenia,10-12-2020,145240,1174
+ARM,Asia,Armenia,11-12-2020,146317,1077
+ARM,Asia,Armenia,12-12-2020,147312,995
+ARM,Asia,Armenia,13-12-2020,148325,1013
+ARM,Asia,Armenia,14-12-2020,148682,357
+ARM,Asia,Armenia,15-12-2020,149120,438
+ARM,Asia,Armenia,16-12-2020,150218,1098
+ARM,Asia,Armenia,17-12-2020,151392,1174
+ARM,Asia,Armenia,18-12-2020,152253,861
+ARM,Asia,Armenia,19-12-2020,153173,920
+ARM,Asia,Armenia,20-12-2020,153825,652
+ARM,Asia,Armenia,21-12-2020,154065,240
+ARM,Asia,Armenia,22-12-2020,154602,537
+ARM,Asia,Armenia,23-12-2020,155440,838
+ARM,Asia,Armenia,24-12-2020,156142,702
+ARM,Asia,Armenia,25-12-2020,156763,621
+ARM,Asia,Armenia,26-12-2020,157349,586
+ARM,Asia,Armenia,27-12-2020,157834,485
+ARM,Asia,Armenia,28-12-2020,157948,114
+ARM,Asia,Armenia,29-12-2020,158296,348
+ARM,Asia,Armenia,30-12-2020,158878,582
+ARM,Asia,Armenia,31-12-2020,159409,531
+ARM,Asia,Armenia,01-01-2021,159738,329
+ARM,Asia,Armenia,02-01-2021,159798,60
+ARM,Asia,Armenia,03-01-2021,160027,229
+ARM,Asia,Armenia,04-01-2021,160220,193
+ARM,Asia,Armenia,05-01-2021,160544,324
+AUS,Oceania,Australia,27-12-2021,322275,11797
+AUS,Oceania,Australia,28-12-2021,339953,17678
+AUS,Oceania,Australia,29-12-2021,361322,21369
+AUS,Oceania,Australia,30-12-2021,395133,33811
+AUS,Oceania,Australia,31-12-2021,425496,30363
+AUS,Oceania,Australia,01-01-2022,462955,37459
+AUS,Oceania,Australia,02-01-2022,492563,29608
+AUS,Oceania,Australia,03-01-2022,537308,44745
+AUS,Oceania,Australia,04-01-2022,608803,71495
+AUS,Oceania,Australia,05-01-2022,684229,75426
+AUS,Oceania,Australia,06-01-2022,762458,78229
+AUS,Oceania,Australia,07-01-2022,860550,98092
+AUS,Oceania,Australia,08-01-2022,972457,111907
+AUS,Oceania,Australia,09-01-2022,1045291,72834
+AUS,Oceania,Australia,10-01-2022,1139097,93806
+AUS,Oceania,Australia,11-01-2022,1223505,84408
+AUS,Oceania,Australia,12-01-2022,1398776,175271
+AUS,Oceania,Australia,13-01-2022,1526961,128185
+AUS,Oceania,Australia,14-01-2022,1613249,86288
+AUS,Oceania,Australia,15-01-2022,1726116,112867
+AUS,Oceania,Australia,16-01-2022,1786007,59891
+AUS,Oceania,Australia,17-01-2022,1870362,84355
+AUS,Oceania,Australia,18-01-2022,1954977,84615
+AUS,Oceania,Australia,19-01-2022,2022581,67604
+AUS,Oceania,Australia,20-01-2022,2086522,63941
+AUS,Oceania,Australia,21-01-2022,2129688,43166
+AUS,Oceania,Australia,22-01-2022,2196870,67182
+AUS,Oceania,Australia,23-01-2022,2229104,32234
+AUS,Oceania,Australia,24-01-2022,2287126,58022
+AUS,Oceania,Australia,25-01-2022,2340046,52920
+AUS,Oceania,Australia,26-01-2022,2391062,51016
+AUS,Oceania,Australia,27-01-2022,2457285,66223
+AUS,Oceania,Australia,28-01-2022,2523265,65980
+AUS,Oceania,Australia,29-01-2022,2570523,47258
+AUS,Oceania,Australia,30-01-2022,2607242,36719
+AUS,Oceania,Australia,31-01-2022,2580386,
+AUS,Oceania,Australia,01-02-2022,2620532,40146
+AUS,Oceania,Australia,02-02-2022,2644760,24228
+AUS,Oceania,Australia,03-02-2022,2676939,32179
+AUS,Oceania,Australia,04-02-2022,2704275,27336
+AUS,Oceania,Australia,05-02-2022,2727260,22985
+AUS,Oceania,Australia,06-02-2022,2752507,25247
+AUS,Oceania,Australia,07-02-2022,2779880,27373
+AUS,Oceania,Australia,08-02-2022,2811390,31510
+AUS,Oceania,Australia,09-02-2022,2822873,11483
+AUS,Oceania,Australia,10-02-2022,2854123,31250
+AUS,Oceania,Australia,11-02-2022,2876687,22564
+AUS,Oceania,Australia,12-02-2022,2902294,25607
+AUS,Oceania,Australia,13-02-2022,2914583,12289
+AUS,Oceania,Australia,14-02-2022,2945496,30913
+AUS,Oceania,Australia,15-02-2022,2969890,24394
+AUS,Oceania,Australia,16-02-2022,2967316,
+AUS,Oceania,Australia,17-02-2022,2990045,22729
+AUS,Oceania,Australia,18-02-2022,3013262,23217
+AUS,Oceania,Australia,19-02-2022,3030638,17376
+AUS,Oceania,Australia,20-02-2022,3048857,18219
+AUS,Oceania,Australia,21-02-2022,3074020,25163
+AUS,Oceania,Australia,22-02-2022,3099249,25229
+AUS,Oceania,Australia,23-02-2022,3124101,24852
+AUS,Oceania,Australia,24-02-2022,3150771,26670
+AUS,Oceania,Australia,25-02-2022,3170574,19803
+AUS,Oceania,Australia,26-02-2022,3188117,17543
+AUS,Oceania,Australia,27-02-2022,3209599,21482
+AUS,Oceania,Australia,28-02-2022,3235017,25418
+AUS,Oceania,Australia,01-03-2022,3256772,21755
+AUS,Oceania,Australia,02-03-2022,3296784,40012
+AUS,Oceania,Australia,03-03-2022,3321943,25159
+AUS,Oceania,Australia,04-03-2022,3344659,22716
+AUS,Oceania,Australia,05-03-2022,3362035,17376
+AUS,Oceania,Australia,06-03-2022,3384217,22182
+AUS,Oceania,Australia,07-03-2022,3429179,44962
+AUS,Oceania,Australia,08-03-2022,3459870,30691
+AUS,Oceania,Australia,09-03-2022,3496205,36335
+AUS,Oceania,Australia,10-03-2022,3527894,31689
+AUS,Oceania,Australia,11-03-2022,3562971,35077
+AUS,Oceania,Australia,12-03-2022,3596466,33495
+AUS,Oceania,Australia,13-03-2022,3622906,26440
+AUS,Oceania,Australia,14-03-2022,3651709,28803
+AUS,Oceania,Australia,15-03-2022,3706018,54309
+AUS,Oceania,Australia,16-03-2022,3763166,57148
+AUS,Oceania,Australia,17-03-2022,3812332,49166
+AUS,Oceania,Australia,18-03-2022,3859284,46952
+AUS,Oceania,Australia,19-03-2022,3900138,40854
+AUS,Oceania,Australia,20-03-2022,3943368,43230
